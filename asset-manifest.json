@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exp_manager/static/css/main.e49a4872.css",
+    "main.js": "/Exp_manager/static/js/main.e376d889.js",
+    "index.html": "/Exp_manager/index.html",
+    "main.e49a4872.css.map": "/Exp_manager/static/css/main.e49a4872.css.map",
+    "main.e376d889.js.map": "/Exp_manager/static/js/main.e376d889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49a4872.css",
+    "static/js/main.e376d889.js"
+  ]
+}
